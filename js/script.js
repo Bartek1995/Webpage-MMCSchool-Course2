@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function(){
         }else{
             nav.classList.remove('shadow-bg')
         }
-    }
+    }   
 
 
     navHref.forEach(element => element.addEventListener('click', () =>
