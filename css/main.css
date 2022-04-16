@@ -205,7 +205,7 @@ header span {
 header .header-img {
   position: relative;
   height: 100vh;
-  background-image: url("/img/pc-small.jpg");
+  background-image: url("../img/pc-small.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -279,7 +279,7 @@ header .header-txt .btn-outline-light {
 
 .aboutus-platforms {
   position: relative;
-  background-image: url("/img/procesor-small.jpg");
+  background-image: url("../img/procesor-small.jpg");
   background-position: center;
   background-size: cover;
   color: #e4e3e3;
@@ -379,7 +379,7 @@ header .header-txt .btn-outline-light {
 
 .team {
   position: relative;
-  background-image: url("/img/meeting-room.jpg");
+  background-image: url("../img/meeting-room.jpg");
   background-position: center;
   background-repeat: cover;
   background-attachment: fixed;
@@ -527,13 +527,13 @@ header .header-txt .btn-outline-light {
     height: 66px;
   }
   .aboutus-platforms {
-    background-image: url("/img/procesor-big.jpg");
+    background-image: url("../img/procesor-big.jpg");
   }
 }
 
 @media (min-width: 1200px) {
   header .header-img {
-    background-image: url("/img/pc-big.jpg");
+    background-image: url("../img/pc-big.jpg");
   }
   .prices .info-text {
     font-size: 20px;
